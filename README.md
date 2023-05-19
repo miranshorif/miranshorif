@@ -7,13 +7,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md rofiqul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md rofiqul islam" height="30" width="40" /></a>
-<a href="https://fb.com/miran shorif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miran shorif" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/md rofiqul islam](https://www.linkedin.com/in/md-rofiqul-islam-3a37a9276/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md rofiqul islam" height="30" width="40" /></a>
+<a href="[https://fb.com/miran shorif](https://www.facebook.com/rofiqulislam.miranshorif)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miran shorif" height="30" width="40" /></a>
 <br />
 <br />
-<a href="https://www.hackerrank.com/miranshorif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@miranshorif" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ri_miran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ri_miran" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/miran_shorif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miran_shorif" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/miranshorif](https://www.hackerrank.com/miranshorif)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@miranshorif" height="30" width="40" /></a>
+<a href="[https://codeforces.com/profile/ri_miran](https://codeforces.com/profile/RI_Miran)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ri_miran" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/miran_shorif](https://leetcode.com/Miran_Shorif/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miran_shorif" height="30" width="40" /></a>
 </p>
 <br />
 <br />
